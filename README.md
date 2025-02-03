@@ -7,7 +7,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 📰 Mon actu du moment :
 
           🐍 J'apprends actuellement Python 
-          📝 Je suis une certification IBM - Open Source 👍
+          📝 Je prépare une certification IBM - Open Source 👍
                                             - Methode Agile en cours
 
 *********************************************************************************************************************************************************
