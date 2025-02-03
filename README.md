@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-## 💻 Tech Stack
+# 💻 Pile technologique:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)  
 
@@ -44,12 +45,12 @@ Here are some ideas to get you started:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/david-tolza-b75430224) 
 
 [![](https://visitcount.itsvg.in/api?id=VidadTol&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophées GitHub
 ![](https://github-profile-trophy.vercel.app/?username=VidadTol&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
