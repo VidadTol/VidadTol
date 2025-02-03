@@ -1,8 +1,16 @@
-## Bonjour je suis David👋
+# 💫 Bonjour je suis David👋
 
 Actuellement en reconversion professionnelle et à la suite d'un bilan de compétences, j'ai découvert une passion pour le développement web. 
 Désireux de m'épanouir dans ce métier, j'ai décidé de me lancer dans cette aventure en commençant une formation au campus Holberton School de Toulouse, 
 où j'acquiers les compétences nécessaires pour devenir développeur web/mobile. 💻
+*********************************************************************************************************************************************************
+📰 Mon actu du moment :
+
+          🐍 J'apprends actuellement Python 
+          📝 Je suis une certification IBM - Open Source 👍
+                                            - Methode Agile en cours
+
+*********************************************************************************************************************************************************
 
 <!--
 **VidadTol/VidadTol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
