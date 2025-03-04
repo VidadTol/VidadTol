@@ -6,7 +6,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
 
-          🐍 J'apprends actuellement Python API
+          🐍 J'apprends actuellement Python API et SQL 
           📝 Travail en groupe sur le projet HBnB
 
 *********************************************************************************************************************************************************
