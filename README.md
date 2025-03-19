@@ -6,7 +6,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
 
-          🐍 J'apprends actuellement Python API et SQL 
+          🐍 J'apprends actuellement Python HTML et CSS
           📝 Travail en groupe sur le projet HBnB
 
 *********************************************************************************************************************************************************
@@ -73,5 +73,9 @@ Here are some ideas to get you started:
   />
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Vidad/count.svg" />
+</p>
+
 
