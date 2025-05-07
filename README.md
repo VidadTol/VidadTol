@@ -6,8 +6,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
 
-          🐍 J'apprends actuellement Python HTML et CSS
-          📝 Travail en groupe sur le projet HBnB
+          📝 Tavail en binome sur notre projet de fin d'année Portfolio
 
 *********************************************************************************************************************************************************
 
