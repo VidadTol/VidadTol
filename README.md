@@ -9,7 +9,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
           📝 Préparation de mon titre RNCP 5
           📝 Je développe également un projet personnel avec JoBEph : Motiv Sport, 
               une plateforme dédiée à connecter les athlètes et faciliter la pratique du sport en équipe ou en binôme
-                   -> https://github.com/JoBEph
+https://github.com/JoBEph
 
 *********************************************************************************************************************************************************
 
