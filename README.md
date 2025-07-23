@@ -7,6 +7,9 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 📰 Mon actu du moment :
 
           📝 Préparation de mon titre RNCP 5
+          📝 Je développe également un projet personnel avec JoBEph : Motiv Sport, 
+              une plateforme dédiée à connecter les athlètes et faciliter la pratique du sport en équipe ou en binôme
+                   -> https://github.com/JoBEph
 
 *********************************************************************************************************************************************************
 
@@ -31,14 +34,31 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 # 💻 Pile technologique:
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="51" height="51" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,github,windows,python,docker,c,vim,discord,ubuntu,visualstudio,mysql)](https://skillicons.dev)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="icon" width="51" height="51" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="icon" width="51" height="51" />
+</div>
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/david-tolza-b75430224) 
