@@ -68,9 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Vidad/count.svg" />
           <img src="https://komarev.com/ghpvc/?username=Vidad&label=Profile%20views&color=blue&style=flat" />
-
 </p>
 
 
