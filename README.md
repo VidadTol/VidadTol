@@ -6,7 +6,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
 
-          📝 Tavail en binome sur notre projet de fin d'année Portfolio
+          📝 Préparation de mon titre RNCP 5
 
 *********************************************************************************************************************************************************
 
@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Vidad/count.svg" />
+          <img src="https://komarev.com/ghpvc/?username=Vidad&label=Profile%20views&color=blue&style=flat" />
+
 </p>
 
 
