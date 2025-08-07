@@ -10,6 +10,7 @@ où j'acquiers les compétences nécessaires pour devenir développeur web/mobil
           📝 Je développe également un projet personnel avec JoBEph : Motiv Sport, 
               une plateforme dédiée à connecter les athlètes et faciliter la pratique du sport en équipe ou en binôme
 https://github.com/JoBEph
+          📝 Je développe aussi une application qui anlayse mon cardio lors de mes seances de sport ainsi que mon sommeil avant et après celle-ci, pour le fun
 
 *********************************************************************************************************************************************************
 
