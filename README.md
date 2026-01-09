@@ -1,25 +1,38 @@
-# 💫 Bonjour je suis David👋
-<img width="1050" height="600" alt="4" src="https://github.com/user-attachments/assets/d27961ac-d5a1-48d2-baca-0f2975c5f4a9" />
+<div align="center">
 
-Développeur Web & Web Mobile (Diplômé RNCP 5) 🎓
+# 💫 Bonjour je suis David 👋
 
-Après une reconversion professionnelle réussie, j’ai obtenu le titre RNCP 5 de Développeur Web & Web Mobile.
+<img width="100%" alt="4" src="https://github.com/user-attachments/assets/d27961ac-d5a1-48d2-baca-0f2975c5f4a9" />
+
+### Développeur Web & Web Mobile (Diplômé RNCP 5) 🎓
+
+Après une reconversion professionnelle réussie, j’ai obtenu le titre **RNCP 5 de Développeur Web & Web Mobile**.
 
 Aujourd’hui, je me lance en freelance avec une mission claire : mettre mes compétences au service de vos projets.
 
-Je travaille principalement avec des outils modernes (React, Next.js, Tailwind), mais je m’adapte aux besoins de chaque projet.
+---
 
-Une discussion préalable me permettra de vous dire clairement ce qui est réalisable ou non afin de garantir votre entière satisfaction.
+### 🛠️ Mon Expertise Technique
+Je travaille principalement avec des outils modernes (**React, Next.js, Tailwind**), mais je m’adapte aux besoins de chaque projet.
 
-L’expertise, la pratique et la résolution de problèmes sont ce qui m’animent au quotidien et me permettent de m’épanouir dans ce métier. 
+Une discussion préalable **me permettra** de vous dire clairement ce qui est réalisable ou non afin de garantir votre entière satisfaction.
 
-Ce que je préfère par‑dessus tout, c’est terminer un projet et voir qu’il fonctionne parfaitement : c’est là que toutes les heures de travail prennent leur valeur.
+---
 
-👉 Ma priorité : la satisfaction client.  
+### 🚀 Mon Projet en cours
+Actuellement en train de finaliser mon premier projet d'envergure — un **site e-commerce complet créé de A à Z** — une aventure technique riche en défis qui sera très prochainement disponible en démo sur mon profil.
 
-Chaque mission est pour moi l’occasion d’apporter une solution concrète, tout en continuant à progresser dans mon expertise.
+---
 
-Que ce soit pour une optimisation, une mise à jour, ou la création d’un site, n’hésitez pas à me contacter pour en discuter. 👉 vidadtol31@gmail.com
+### 🎯 Ma Philosophie
+L’expertise, la pratique et la résolution de problèmes sont ce qui m’animent au quotidien et me permettent de m’épanouir dans ce métier. Ce que je préfère par‑dessus tout, c’est terminer un projet et voir qu’il fonctionne parfaitement : c’est là que toutes les heures de travail prennent leur valeur.
+
+**👉 Ma priorité : la satisfaction client.** Chaque mission est pour moi l’occasion d’apporter une solution concrète, tout en continuant à progresser dans mon expertise.
+
+Que ce soit pour une optimisation, une mise à jour, ou la création d’un site, n’hésitez pas à me contacter pour en discuter :  
+👉 **vidadtol31@gmail.com**
+
+</div>
 
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
