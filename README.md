@@ -2,7 +2,7 @@
 
 # 💫 Bonjour je suis David 👋
 
-<img width="100%" alt="4" src="https://github.com/user-attachments/assets/d27961ac-d5a1-48d2-baca-0f2975c5f4a9" />
+<img width="80%" alt="Bannière David" src="https://github.com/user-attachments/assets/d27961ac-d5a1-48d2-baca-0f2975c5f4a9" />
 
 ### Développeur Web & Web Mobile (Diplômé RNCP 5) 🎓
 
