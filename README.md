@@ -1,12 +1,26 @@
 # 💫 Bonjour je suis David👋
 
-Actuellement en reconversion professionnelle et à la suite d'un bilan de compétences, j'ai découvert une passion pour le développement web. 
-Désireux de m'épanouir dans ce métier, j'ai décidé de me lancer dans cette aventure en commençant une formation au campus Holberton School de Toulouse, 
-où j'acquiers les compétences nécessaires pour devenir développeur web/mobile. 💻
+Développeur Web & Web Mobile (Diplômé RNCP 5) 🎓
+
+Après une reconversion professionnelle réussie, j’ai obtenu le titre RNCP 5 de Développeur Web & Web Mobile.
+
+Aujourd’hui, je me lance en freelance avec une mission claire : mettre mes compétences au service de vos projets.
+Je travaille principalement avec des outils modernes (React, Next.js, Tailwind), mais je m’adapte aux besoins de chaque projet. Une discussion préalable me permet de vous dire clairement ce qui est réalisable ou non.
+
+L’expertise, la pratique et la résolution de problèmes sont ce qui m’animent au quotidien et me permettent de m’épanouir dans ce métier. 
+
+Ce que je préfère par‑dessus tout, c’est terminer un projet et voir qu’il fonctionne parfaitement : c’est là que toutes les heures de travail prennent leur valeur.
+
+👉 Ma priorité : la satisfaction client.  
+Chaque mission est pour moi l’occasion d’apporter une solution concrète, tout en continuant à progresser dans mon expertise.
+
+Que ce soit pour une optimisation, une mise à jour, ou la création d’un site, n’hésitez pas à me contacter pour en discuter.
+
 *********************************************************************************************************************************************************
 📰 Mon actu du moment :
 
-          📝 Préparation de mon titre RNCP 5
+          📝 Actuellement en train de finaliser mon premier projet d'envergure, un site e-commerce complet créé de A à Z 
+                    Une aventure technique riche en défis qui sera très prochainement disponible sur mon profil
           📝 Je développe aussi une application qui anlayse mon cardio lors de mes seances de sport ainsi que mon sommeil avant et après celle-ci, pour le fun
           📝 Je développe également un projet personnel avec JoBEph : Motiv Sport, 
               une plateforme dédiée à connecter les athlètes et faciliter la pratique du sport en équipe ou en binôme
