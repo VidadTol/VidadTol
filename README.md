@@ -25,9 +25,12 @@ Actuellement en train de finaliser mon premier projet d'envergure — un **site 
 ---
 
 ### 🎯 Ma Philosophie
-L’expertise, la pratique et la résolution de problèmes sont ce qui m’animent au quotidien et me permettent de m’épanouir dans ce métier. Ce que je préfère par‑dessus tout, c’est terminer un projet et voir qu’il fonctionne parfaitement : c’est là que toutes les heures de travail prennent leur valeur.
+L’expertise, la pratique et la résolution de problèmes sont ce qui m’animent au quotidien et me permettent de m’épanouir dans ce métier. 
+Ce que je préfère par‑dessus tout, c’est terminer un projet et voir qu’il fonctionne parfaitement : 
+c’est là que toutes les heures de travail prennent leur valeur.
 
-**👉 Ma priorité : la satisfaction client.** Chaque mission est pour moi l’occasion d’apporter une solution concrète, tout en continuant à progresser dans mon expertise.
+**👉 Ma priorité : la satisfaction client.** Chaque mission est pour moi l’occasion d’apporter une solution concrète, 
+tout en continuant à progresser dans mon expertise.
 
 Que ce soit pour une optimisation, une mise à jour, ou la création d’un site, n’hésitez pas à me contacter pour en discuter :  
 👉 **vidadtol31@gmail.com**
