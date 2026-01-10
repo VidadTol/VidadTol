@@ -21,7 +21,7 @@ Une discussion préalable **me permettra** de vous dire clairement ce qui est r�
 ---
 
 ### 🚀 Mon Projet en cours
-Actuellement en train de finaliser mon premier projet d'envergure — un **site e-commerce complet créé de A à Z** — une aventure technique riche en défis qui sera très prochainement disponible en démo sur mon profil.
+Actuellement en train de finaliser mon premier projet d'envergure un **site e-commerce complet créé de A à Z** une aventure technique riche en défis qui sera très prochainement disponible en démo sur mon profil.
 
 ---
 
