@@ -2,9 +2,10 @@
 
 # 💫 Bonjour je suis David 👋
 
-<img width="80%" alt="Bannière David" src="https://github.com/user-attachments/assets/d27961ac-d5a1-48d2-baca-0f2975c5f4a9" />
+<img width="1480" height="224" alt="Développeur Web   Mobile - FreelanceCP 5)" src="https://github.com/user-attachments/assets/fe6b5d1b-9eaf-449c-9b8e-645a4956add2" />
 
-### Développeur Web & Web Mobile (Diplômé RNCP 5) 🎓
+
+### Développeur Web & Mobile (Diplômé RNCP 5) 🎓
 
 Après une reconversion professionnelle réussie, j’ai obtenu le titre **RNCP 5 de Développeur Web & Web Mobile**.
 
@@ -98,7 +99,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/david-tolza-b75430224) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/david-tolza-b75430224)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidadtol31@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=VidadTol&icon=0&color=4)](https://visitcount.itsvg.in)
 
