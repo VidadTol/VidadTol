@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidadTol&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c,c%23,dockerfile)
 
 # 💻 Pile technologique:
 <div style="display: flex; align-items: flex-start;">
